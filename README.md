@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rushikesh Pande 👋
 
-<!--
-**rushikeshpandee/rushikeshpandee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full Stack Developer | React • Node.js • Express • MongoDB
 
-Here are some ideas to get you started:
+I'm a developer focused on building responsive, user-friendly web applications and learning full-stack development through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently working on **AlumniLink**
+* 🌱 Improving my skills in **React, Node.js, Express.js, and MongoDB**
+* 💻 Interested in full-stack development and building real-world web applications
+* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-pande-575368272)
+
+### 🛠️ Technical Skills
+
+**Frontend:** HTML, CSS, JavaScript, React
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Tools:** Git, GitHub, Postman
+
+### 🚀 Featured Projects
+
+**AlumniLink** — A platform for student–alumni networking and mentorship.
+[View Repository](https://github.com/rushikeshpandee/AlumniLink)
+
+**Workout-Buddy** — A workout tracking application with user authentication.
+[View Repository](https://github.com/rushikeshpandee/Workout-Buddy)
+
+**Amazon Clone** — A frontend project inspired by an e-commerce website.
+[View Repository](https://github.com/rushikeshpandee/Amazon_clone)
+
+### 🤝 Let's Connect
+
+[GitHub](https://github.com/rushikeshpandee) · [LinkedIn](https://www.linkedin.com/in/rushikesh-pande-575368272)
